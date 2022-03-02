@@ -1,5 +1,7 @@
 # Atlas
 Pazaryeri buybox takibi
+ 
+<code>products.json</code> ürün ve url adreslerinin depolama alanıdır. 
 
 
 # Sistem Gereksinimleri
